@@ -1,6 +1,6 @@
 > Bitly encurtador de url 👋
 
-## RUN
+#### RUN
 
 ```bash
 # Iniciando o projeto
