@@ -1,0 +1,10 @@
+POST http://localhost:8080/surl HTTP/1.1
+Content-Type: application/json
+
+{
+    "url": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/07/26/tse-vai-coibir-violencia-como-arma-politica-e-enfrentar-desinformacao-como-pratica-do-caos-diz-fachin.ghtml"
+}
+
+### 
+GET http://localhost:8080/surl/{shortUrlKey}
+
